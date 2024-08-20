@@ -1,5 +1,5 @@
+import 'package:ChatAppUI/styles/app_colors.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_ui_1/styles/app_colors.dart';
 
 class SplashScreen extends StatelessWidget {
   const SplashScreen({super.key});
